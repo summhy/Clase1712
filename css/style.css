@@ -16,3 +16,9 @@ main div{
     background-color: rgb(200, 184, 216) !important;
   
 }
+
+
+.card img{
+    width: 50% !important;
+    max-width: 200px ;
+}
